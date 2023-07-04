@@ -1,4 +1,4 @@
-#第1章　Pythonの基本
+# 第1章　Pythonの基本
 
 1.1 Pythonとその特徴
 
