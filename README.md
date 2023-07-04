@@ -146,7 +146,7 @@
 
 ・8.10 logging
 
-#E Appendix
+# E Appendix
 
 ・A.1 コンピュータの基本
 
