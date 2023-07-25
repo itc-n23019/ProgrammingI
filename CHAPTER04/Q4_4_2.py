@@ -15,7 +15,7 @@ def check_box(vote_n):
 
 vote_num = vote(vote_num)
 check_box(vote_num)
-vote_numm = vote(vote_num)
+vote_num = vote(vote_num)
 check_box(vote_num)
 for i in range(3):
     vote_num = vote(vote_num)
